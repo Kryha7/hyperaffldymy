@@ -1,0 +1,108 @@
+.pignose-popup {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	max-width: 600px;
+	width: 80%;
+	background-color: #ffffff;
+}
+
+.pignose-popup .item_header {
+	padding: 1.2em 1.6em;
+	font-family: inherit;
+	font-size: 100%;
+	font-weight: 600;
+	background-color: #fd5c63;
+	color: #ffffff;
+	border-bottom: 1px solid #d8d8d8;
+	overflow: hidden;
+}
+
+.txt_title
+{
+	text-transform: uppercase;
+}
+
+.pignose-popup .item_header .txt_title {
+	float: left;
+}
+
+.pignose-popup .item_header .btn_close {
+	float: right;
+}
+
+.pignose-popup .item_content h2
+{
+	margin-bottom: 20px;
+}
+
+.pignose-popup .item_content {
+	padding: 2em;
+	font-size: 100%;
+	color: #555555;
+	text-align: center;
+}
+
+.pignose-popup.black {
+	border: 1px solid #222222;
+}
+
+.pignose-popup.black .item_header {
+	background-color: #222222;
+}
+
+.pignose-popup.blue {
+	border: 1px solid #155fa1;
+}
+
+.pignose-popup.blue .item_header {
+	background-color: #155fa1;
+}
+
+.pignose-popup.orange {
+	border: 1px solid #da7024;
+}
+
+.pignose-popup.orange .item_header {
+	background-color: #da7024;
+}
+
+.pignose-popup.mint {
+	border: 1px solid #16aa91;
+}
+
+.pignose-popup.mint .item_header {
+	background-color: #16aa91;
+}
+
+.pignose-popup .item_content button
+{
+	display: block;
+	width: 150px;
+	text-transform: uppercase;
+	color: #ffffff;
+	border-radius: 3px;
+	font-size: 18px;
+	background: #fd5c63;
+	border: 2px solid #fd5c63;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin: auto;
+	margin-top: 15px;
+}
+
+.pignose-popup .item_content input[type="number"]
+{
+	font-size: 0.875rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.2rem;
+    line-height: 1.25;
+    color: rgb(70, 74, 76);
+    background-color: rgb(255, 255, 255);
+    background-image: none;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.15);
+    border-image: initial;
+}

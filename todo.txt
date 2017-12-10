@@ -1,0 +1,8 @@
+#Viewing more photos than one in raffle (y)
+#History adding tickets to raffles (y)
+#History buying tickets (y)
+#Hisotry winning raffles (y)
+#Help page (y)
+#Poprawki with notifications and designs (y) without mobile
+#Facebook login
+#Paypal payment
