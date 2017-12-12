@@ -38,7 +38,7 @@ return [
     'facebook' => [
         'client_id' => '363067510786880',
         'client_secret' => '627cef4ddee1ea0d07c6b8b6da0a5e3c',
-        'redirect' => 'http://localhost:8000/callback',
+        'redirect' => 'http://hyperaffle.ovh/callback',
     ],
 
 ];
